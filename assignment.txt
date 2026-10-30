@@ -1,0 +1,2 @@
+My first line in the assignment file.
+This is my Git and GitHub practical task.
